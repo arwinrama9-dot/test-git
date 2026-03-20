@@ -1,3 +1,3 @@
 # Hello Git
-new line
+new line  
 scond line 第二行
